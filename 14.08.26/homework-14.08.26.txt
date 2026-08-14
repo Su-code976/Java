@@ -1,0 +1,3 @@
+https://leetcode.com/problems/majority-element-ii/submissions/2106783332
+
+https://leetcode.com/problems/contains-duplicate-ii/submissions/2106784322
